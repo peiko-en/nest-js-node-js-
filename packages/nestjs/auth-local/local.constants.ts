@@ -1,0 +1,1 @@
+export const LOCAL_AUTH_OPTIONS = 'LOCAL_AUTH_OPTIONS';
